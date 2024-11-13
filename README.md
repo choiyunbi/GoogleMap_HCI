@@ -1,16 +1,6 @@
-# hci_googlemap
+## hci_project 
+# googlemap
 
-A new Flutter project.
+2023.03 ~ 06에 진행한 HCI 프로젝트로 기존에 있던 Googlemap의 UI와 UX 를 개선하여 플러터로 제작하였습니다.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
